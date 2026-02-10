@@ -56,4 +56,5 @@ The platform utilizes a vector-based matching system. When a new item is posted:
 
 ---
 
-**Would you like me to write the specific logic for the AI Matching function (e.g., using a Supabase Edge Function or an API route)?**
+<img width="1920" height="1020" alt="Screenshot 2026-02-10 143348" src="https://github.com/user-attachments/assets/bb278c17-5239-4920-9af3-dd72d5675b78" />
+
